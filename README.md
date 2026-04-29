@@ -74,8 +74,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning distributed testing systems, property-based testing, and KDB Tree.
 - 👯 I’m looking to collaborate on open-source testing frameworks and QML projects.
 - 🤔 I’m looking for help with distributed testing architectures.
-- 📫 How to reach me: ahelipoddar2003@gmail.com (quickest option)
-- 😄 Pronouns: she/her
+- 📫 How to reach me: 1479599905@qq.com (quickest option)
 - ⚡ Fun fact: I'm a huge cinephile and RMD geek!
 
 
